@@ -1,1 +1,0 @@
-configuration management project, puppet
